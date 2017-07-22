@@ -101,7 +101,7 @@ im
 
 
 
-![png](output_8_0.png)
+![png](imgs/output_8_0.png)
 
 
 
@@ -113,7 +113,7 @@ im2
 
 
 
-![png](output_9_0.png)
+![png](imgs/output_9_0.png)
 
 
 
@@ -142,7 +142,7 @@ im
 
 
 
-![png](output_12_0.png)
+![png](imgs/output_12_0.png)
 
 
 
@@ -191,7 +191,7 @@ im
 
 
 
-![png](output_16_0.png)
+![png](imgs/output_16_0.png)
 
 
 
@@ -211,7 +211,7 @@ im
 
 
 
-![png](output_18_0.png)
+![png](imgs/output_18_0.png)
 
 
 
@@ -350,7 +350,7 @@ plt.imshow(imarr)
 
 
 
-![png](output_25_1.png)
+![png](imgs/output_25_1.png)
 
 
 
@@ -371,7 +371,7 @@ plt.imshow(imarr)
 
 
 
-![png](output_26_2.png)
+![png](imgs/output_26_2.png)
 
 
 # What happened next?
@@ -740,7 +740,7 @@ plt.imshow(arr[200, :, :, 0])
 
 
 
-![png](output_38_1.png)
+![png](imgs/output_38_1.png)
 
 
 
@@ -756,7 +756,7 @@ plt.imshow(get_image_batch(real_generator)[2,:,:,0])
 
 
 
-![png](output_39_1.png)
+![png](imgs/output_39_1.png)
 
 
 # MNIST for Captcha
@@ -854,7 +854,7 @@ plt.axis('off')
 
 
 
-![png](output_45_2.png)
+![png](imgs/output_45_2.png)
 
 
 ## Real
@@ -878,7 +878,7 @@ plt.axis('off')
 
 
 
-![png](output_47_1.png)
+![png](imgs/output_47_1.png)
 
 
 

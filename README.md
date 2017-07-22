@@ -1,6 +1,6 @@
 # SimGAN-Captcha
 
-With simulated unsupervised learning, breaking captchas has never been easier. There is no need to label any captchas manually for convnet. By using a captcha synthesizer and a refiner trained with GAN, it's feasible to generate synthesized training pairs for classification captchas.
+With simulated unsupervised learning, breaking captchas has never been easier. There is no need to label any captchas manually for convnet. By using a captcha synthesizer and a refiner trained with GAN, it's feasible to generate synthesized training pairs for classifying captchas.
 
 ## Link to paper: SimGAN by Apple 
 

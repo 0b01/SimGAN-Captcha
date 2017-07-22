@@ -1,8 +1,11 @@
 # SimGAN-Captcha
 
-With this method, breaking captchas has never been easier. You don't need to labeling any data. However, a hand tuned captcha generator is required to save training time.
+With simulated unsupervised learning, breaking captchas has never been easier. There is no need to label any captchas manually for convnet. By using a captcha synthesizer and a refiner trained with GAN, it's feasible to generate synthesized training pairs for classification captchas.
 
-Its underlying model is SimGAN developed by Apple ([pdf](https://arxiv.org/pdf/1612.07828v1.pdf)). The model uses a refiner-discriminator architecture. 
+## Link to paper: SimGAN by Apple 
+
+[PDF](https://arxiv.org/pdf/1612.07828v1.pdf)
+[HTML](https://machinelearning.apple.com/2017/07/07/GAN.html)
 
 ![SimGAN](http://www.fudzilla.com/images/stories/2016/December/apple-simgan-generative-adversarial-networks.jpg)
 

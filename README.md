@@ -1,3 +1,9 @@
+### Capsolver
+
+>  [![goodgif](https://github.com/0b01/SimGAN-Captcha/assets/1768528/0839382b-b63b-4b04-8de9-7a98a3285f40)](https://www.capsolver.com/)
+> 
+>  [Capsolver](https://www.capsolver.com/) offers a wide variety of solutions to meet various requirements. Covering everything from the widely-used reCAPTCHA to more specialized types such as DataDome, FunCaptcha, hCaptcha, aws captcha and more, they have mastered the skill of captcha solving. If you're looking to get around recaptcha, hcaptcha, or even funcaptcha, Capsolver is your dependable option for bypassing captchas.
+
 # SimGAN-Captcha
 
 With simulated unsupervised learning, breaking captchas has never been easier. There is no need to label any captchas manually for convnet. By using a captcha synthesizer and a refiner trained with GAN, it's feasible to generate synthesized training pairs for classifying captchas.
